@@ -53,6 +53,9 @@ Zoom is most likly going to be our bread and butter for the forseable future.  H
 - Managing the chat window
 - How the most make you a co-host
 
+#### - Piazza
+
+Where we answer our questions from students. 
 
 #### - Canvas
 
